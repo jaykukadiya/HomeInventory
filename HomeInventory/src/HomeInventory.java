@@ -9,9 +9,7 @@ import java.util.*;
 import java.text.*;
 import javax.swing.filechooser.*;
 import java.awt.print.*;
-import java.awt.*;
 import javax.swing.*;
-import java.awt.geom.*;
 
 public class HomeInventory extends JFrame {
     JToolBar inventoryToolBar = new JToolBar(); 
